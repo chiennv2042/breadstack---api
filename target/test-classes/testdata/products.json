@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "description": "Latest Apple iPhone",
+    "price": 999,
+    "stock": 20,
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "description": "Latest Samsung Phone",
+    "price": 899,
+    "stock": 15,
+    "categoryId": 1
+  },
+  {
+    "id": 3,
+    "name": "T-shirt",
+    "description": "Cotton T-shirt",
+    "price": 20,
+    "stock": 100,
+    "categoryId": 2
+  }
+]

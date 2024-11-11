@@ -1,0 +1,8 @@
+json_server:
+  urls:
+    base_url: http://localhost:3000
+    create_user_url: /users
+    get_all_products_url: /products
+    get_all_categories_url: /categories
+    place_an_order_url: /orders
+    write_a_review_url: /reviews

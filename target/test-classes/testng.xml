@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="the-internet">
+    <test name="Assessment2">
+        <classes>
+            <class name="tests.FormAuthentication.FormAuthenticationTest"/>
+            <methods>
+<!--                <include name="verifyThatUsersCanSuccessfullyLogInWithValidCredentials"></include>-->
+            </methods>
+        </classes>
+    </test>
+</suite>
